@@ -1,5 +1,3 @@
-# Build-Your-Own-RESTful-API
-
 ## Example Documents
 
 ```
